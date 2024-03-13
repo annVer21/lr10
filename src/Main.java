@@ -1,5 +1,5 @@
 import java.util.concurrent.Semaphore;
-
+//uuuuu
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         int numberPhilosophers = 5;
